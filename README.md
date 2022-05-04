@@ -9,3 +9,5 @@ This college site is made by using CSS and HTML codes..The CSS is used more for 
 The user interface is simple and very user-friendly.
 Every student can easily access the website for the information they required.
 The website is figure is shown below
+![college_website](https://user-images.githubusercontent.com/102249618/166714887-03bf69ce-80e1-4ab2-b002-775901559d46.png)
+
